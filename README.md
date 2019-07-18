@@ -2,7 +2,7 @@
 vue.js와 Spring boot 연동 예제
 
 
-# 사용 기술
+## 사용 기술
 - rest API (Json형식)
 - Axios
 - Vue Router
