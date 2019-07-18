@@ -14,7 +14,7 @@ vue.js와 Spring boot 연동 예제
 - Spring boot 에서 만든 REST API를 읽어와서 Vue.js에 뿌리고
 - Vue.js에서 입력한 값들을 Rest에 PUT하고 Spring 콘솔창에 출력하기
 
-![이미지001](./img/이미지001.png)  
+![이미지001](./img/image001.png)  
 
 
 ## 참고 블로그
